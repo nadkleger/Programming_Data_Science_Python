@@ -24,7 +24,7 @@ Your presentation should include:
 ### Project Submission
 
 [Project Submission](https://www.dropbox.com/s/89ntt22xp156hgw/SQL%20Project%20Submission.pdf?dl=0).
-You can find the queries [here](https://www.dropbox.com/sh/hxrntxg2qnqof5m/AAB0r2lVF4EMJYHRmmnHiyHVa?dl=0).
+You can find the queries [here](https://github.com/nadkleger/Programming_Data_Science_Python/tree/master/Project1).
 
 ## Project 2
 
