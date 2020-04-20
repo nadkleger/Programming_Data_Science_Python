@@ -1,4 +1,4 @@
-# Programming_Data_Science_Python
+# Programming-Data-Science-Python
 
 This is a repository containing all projects for the Udacity Nanodegree of "Programming for Data Science with Python".
 
