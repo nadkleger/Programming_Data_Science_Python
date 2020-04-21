@@ -36,7 +36,7 @@ In this project, you will make use of Python to explore data related to bike sha
 
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
 
-[Project Submission](https://www.dropbox.com/s/ik4i45wucg0knlb/bikeshare.py?dl=0).
+[Project Submission](https://github.com/nadkleger/Programming_Data_Science_Python/tree/master/Project2).
 
 #### Files Used
 
